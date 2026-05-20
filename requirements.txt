@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+xgboost
+joblib
+uvicorn
+fastapi
+
